@@ -27,7 +27,6 @@ This project delivers a **React** dashboard for monitoring sales and marketing p
 - **React** (UI library)
 - **Chart.js** (data visualization)
 - HTML5 + CSS3 (Flexbox, Grid)
-- Google Fonts – Heebo
 
 ---
 

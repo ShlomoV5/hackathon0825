@@ -1,3 +1,15 @@
+/**
+ * KPI Component
+ * Displays a single KPI metric with:
+ * - Large number (centered, fills most of the space)
+ * - Label in the top-right corner
+ * - Control buttons (move/delete) in the top-left corner
+ *
+ * Props:
+ * - label (string): KPI title in Hebrew
+ * - value (string|number): KPI value to display
+ */
+
 function Kpi({ label, value }) {
   return (
     <div className="kpi">
