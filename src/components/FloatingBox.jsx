@@ -1,3 +1,7 @@
+/**
+ * FloatingBox Component
+ * Box for additional media or in the future, notes for user.
+ */
 function FloatingBox() {
   return (
     <div className="floating-box">

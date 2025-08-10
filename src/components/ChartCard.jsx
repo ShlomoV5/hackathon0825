@@ -1,3 +1,11 @@
+/**
+ * Charts Component
+ * - Line chart: shows calls per day for the last 7 days
+ * - Pie chart: shows distribution of call outcomes
+ * 
+ * Uses Chart.js and is fully responsive.
+ */
+
 import { useEffect, useRef } from 'react';
 import { Chart } from 'chart.js/auto';
 

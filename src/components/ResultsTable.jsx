@@ -1,3 +1,13 @@
+/**
+ * ResultsTable Component
+ * Displays a table of recent calls with:
+ * - Name
+ * - Time
+ * - Outcome (color-coded)
+ * - Rating stars
+ * - 'View' button for details
+ */
+
 function ResultsTable() {
   const rows = [
     { name: 'דוד כהן', time: '10:15', result: 'נסגר', color: 'green', rating: '★★★★☆' },
